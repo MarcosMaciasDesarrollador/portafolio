@@ -1,0 +1,5 @@
+.portafolio-container{
+    min-height: 100vw;
+    background: var(--color-secundario);
+    padding: 5rem 5rem 5rem 5rem;
+}

@@ -5,7 +5,7 @@
     width: 5rem;
     height: 5rem;
     background: transparent;
-    border: .2rem #ffffff;
+    border: .2rem aqua;
     border-radius: 50%;
     font-size: 3rem;
     color: aqua;
@@ -15,5 +15,5 @@
 .home-social-media a:hover{
     background: aqua;
     color: var(--color-fondo);
-    box-shadow: 0 0 1rem #ffffff;
+    box-shadow: 0 0 1rem aqua;
 }

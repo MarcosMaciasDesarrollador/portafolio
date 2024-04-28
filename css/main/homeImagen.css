@@ -1,6 +1,6 @@
 .imagen-personal{
     border-radius: 50%;
-    background-color:rgba(0, 255, 255, 0.774);
+    background-color:rgba(7, 52, 75, 0.87));
     width: 35vw;
     box-shadow: 0 0 2rem aqua;
     animation: floatImage 4s ease-in-out infinite;

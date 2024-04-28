@@ -1,0 +1,19 @@
+.home-social-media a{
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    width: 5rem;
+    height: 5rem;
+    background: transparent;
+    border: .2rem solid aqua;
+    border-radius: 50%;
+    font-size: 3rem;
+    color: aqua;
+    margin: 3rem 1.5rem 3rem 0;
+    transition: 0.5s ease;
+}
+.home-social-media a:hover{
+    background: aqua;
+    color: var(--color-fondo);
+    box-shadow: 0 0 1rem aqua;
+}

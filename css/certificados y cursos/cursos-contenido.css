@@ -1,0 +1,16 @@
+.cursos-contenido{
+    display: flex;
+    flex-wrap: wrap;
+    align-items:baseline;
+    justify-content: center;
+    background: var(--color-secundario);
+    /* box-shadow: 0 0 2rem aqua; */
+    border: .2rem solid aqua;
+    border-radius: 2rem;
+    padding-bottom: 5rem;
+}
+.cursos-contenido h1{
+    font-size: 4.5rem;
+    font-weight: 600;
+    padding: 5rem 0 5rem;
+}

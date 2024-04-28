@@ -1,0 +1,18 @@
+@media (max-width: 450px) {
+    html{
+        font-size: 50%;
+    }
+    .contacto-container form .input-box input{
+        width: 100%;
+    }
+    footer{
+        flex-direction: column-reverse;
+    }
+    footer p{
+        text-align: center;
+        margin-top: 2rem;
+    }
+
+}
+
+

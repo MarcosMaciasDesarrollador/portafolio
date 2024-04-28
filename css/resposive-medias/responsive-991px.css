@@ -1,0 +1,38 @@
+@media (max-width: 991px) {
+    .header-container{
+        padding: 2rem 3%;
+    }
+    .header-nav{
+        font-size: 1.4rem;
+    }
+
+    section{
+        padding: 10rem 3% 2rem;
+    }
+    .services-container{
+        padding-bottom: 7rem;
+    }
+    .portafolio-container h2{
+        padding-bottom: 7rem;
+    }
+    .contacto-container{
+        min-height: auto;
+    }
+    .footer{
+        padding: 2rem 3%;
+    }
+    .about-contenido{
+        padding-left: 0;
+        width: auto;
+        
+    }
+    .about-contenido p{
+        font-size: 1.6rem;
+        margin: 2rem 0 2rem;
+    }
+    .about-imagene img{
+        border: 1rem solid aqua;
+        
+    }
+}
+

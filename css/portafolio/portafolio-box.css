@@ -1,0 +1,79 @@
+.portafolio-box{
+    position: relative;
+    border-radius: 2rem;
+    box-shadow: 0 0 1rem var(--color-fondo);
+    overflow: hidden;
+    display: flex;
+}
+
+.portafolio-box img{
+    width: 100%;
+    min-height: 300px;
+    
+}
+.portafolio-layer{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(rgba(0, 0, 0, 0.075), var(--color-fondo));
+    color: var(--color-font);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    padding: 0 4rem;
+    transform: translateY(100%);
+    transition: .5s ease;
+}
+
+.portafolio-box:hover .portafolio-layer{
+    transform: translateY(0);
+}
+.portafolio-layer h4{
+    font-size: 3.5rem;
+    font-weight: 700;
+    padding-bottom: 2rem;
+}
+.portafolio-layer p{
+    font-size: 1.8rem;
+    line-height: 1.3;
+}
+
+.portafolio-layer a{
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    width: 8rem;
+    height: 8rem;
+    background: var(--color-font);
+    border-radius: 50%;
+    margin: 5rem 2rem 0 2rem;
+    transition: .5s ease;
+}
+.portafolio-layer a:hover{
+    background: aqua;
+    box-shadow: 0 0 1rem aqua;
+}
+
+.portafolio-layer a i{
+    font-size: 4rem;
+    color: var(--color-fondo);
+    transition: .5s ease;
+}
+
+.portafolio-layer a i:hover{
+    transform: scale(1.42);
+}
+
+.EFAR {
+    max-width: 45%;
+}
+.Form-alura{
+    max-width: 65%;
+}
+/* .portafolio-layer {
+
+} */

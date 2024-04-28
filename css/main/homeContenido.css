@@ -1,0 +1,23 @@
+.home-contenido{
+    padding-right: 5%;
+    line-height: 1.2;
+}
+.home-contenido h3{
+    font-size: 3.2rem;
+    font-weight: 700;
+}
+.home-contenido h3:nth-of-type(2){
+    margin-bottom: 2rem;
+
+}
+.home-contenido h1{
+    font-size: 5.6rem;
+    font-weight: 700;
+    line-height: 1.6;
+}
+.home-contenido p{
+    font-size: 1.96rem;
+}
+span{
+    color: aqua;
+}

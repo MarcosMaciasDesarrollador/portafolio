@@ -1,0 +1,10 @@
+.header-nav a{
+    margin-left: 4rem;
+}
+.header-nav{
+    font-size: 1.7rem;
+}
+
+.header-nav a:hover, .header-nav a.active{
+    color: aqua;
+}

@@ -1,0 +1,9 @@
+.about-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: var(--color-font);
+    gap: 2rem;
+    background: #182f42;
+    padding-top: 6rem;
+}

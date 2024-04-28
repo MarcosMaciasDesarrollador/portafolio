@@ -1,0 +1,16 @@
+.caja__general{
+    /* display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap; */
+    margin: 0 2rem 0 2rem;
+}
+.curso__caja-conenido{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 2rem;
+    width: auto;
+    margin: 0 2rem 0 2rem;
+}

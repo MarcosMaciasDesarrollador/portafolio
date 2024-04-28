@@ -1,0 +1,19 @@
+@media (max-width: 617px) {
+    .portafolio-contenedor{
+        grid-template-columns: repeat(1, 1fr);
+    }
+    
+    .portafolio-layer h4{
+        font-size: 2rem;
+        padding-bottom: 1rem;
+    }
+    .footer-text p{
+        font-size: 1.2rem;
+    }
+    .footer-iconTop a{
+        margin-top: 1rem;
+    }
+    .footer-iconTop a i{
+        font-size: 2.4rem;
+    }
+}

@@ -1,0 +1,12 @@
+.contacto-container{
+    min-height: 100vh;
+    padding: 5rem 5rem 5rem 5rem;
+    background: var(--color-secundario);
+}
+.contacto-container h2{
+    text-align: center;
+    font-size: 5rem;
+    font-weight: 700;
+    color: var(--color-font);
+    margin: 5rem 0 5rem 5rem;
+}

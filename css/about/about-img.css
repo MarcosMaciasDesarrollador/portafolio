@@ -1,0 +1,8 @@
+.about-imagene img{
+    width: 35vw;
+    border-radius: 100%;
+    /* background: red; */
+    border: 1.9rem solid aqua;
+    box-shadow: 0 0 2rem aqua;
+    
+}

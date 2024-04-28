@@ -1,0 +1,29 @@
+.services-contenedor .services-box{
+    flex: 1 1 30rem;
+    background: var(--color-secundario);
+    padding: 3rem 2rem 4rem;
+    text-align: center;
+    border-radius: 2rem;
+    border: .2rem solid var(--color-fondo);
+    transition: .5s ease;
+}
+.services-contenedor .services-box:hover{
+    border-color: aqua;
+    box-shadow: 0 0 2rem aqua;
+    transform: scale(1.02);
+
+}
+
+.services-box i{
+    font-size: 7.5rem;
+    color: aqua;
+}
+.services-box h3{
+    font-size: 2.6rem;
+    padding: 1.5rem 0 1.5rem;
+}
+.services-box p{
+    font-size: 1.6rem;
+    margin: 1rem 0 3rem;
+    line-height: 1.3;
+}

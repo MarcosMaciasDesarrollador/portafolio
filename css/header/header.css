@@ -1,0 +1,17 @@
+header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 2rem 9%;
+    background: var(--color-secundario);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 100;
+    color: #fff;
+}
+
+.header .sticky{
+    border-bottom: .1rem solid rgba(0, 0, 0, .2);
+}

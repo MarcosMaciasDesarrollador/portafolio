@@ -1,0 +1,10 @@
+.services-contenedor{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 2rem;
+    /* background: red; */
+    color: var(--color-font);
+    width: auto;
+}

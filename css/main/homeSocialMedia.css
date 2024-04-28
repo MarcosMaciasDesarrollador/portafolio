@@ -15,5 +15,5 @@
 .home-social-media a:hover{
     background: aqua;
     color: var(--color-fondo);
-    box-shadow: 0 0 1rem aqua;
+    box-shadow: 0 0 1rem #ffffff;
 }
